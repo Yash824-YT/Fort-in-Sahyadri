@@ -1,6 +1,6 @@
 # Fort-in-Sahyadri
 
-**Tourism Sahyadri Fort Website **         
+**Tourism Sahyadri Fort Website**
 
 Created a static website that enables the user to browse through the Visitor Information, Images, Map and Videos of popular Fort.  
 
